@@ -1,0 +1,49 @@
+.wow{
+    display: flex;
+    justify-content: space-between;
+}
+.wow{
+    color: green;
+}
+.wow h2{
+    font-size: 500%;
+}
+.wow a{
+    text-decoration: none;
+}
+
+.a{
+    display: flex;
+    background-color: aqua;
+}
+.a{
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+}
+.c{
+    padding-right: 150px;
+    
+    
+}
+.a1{
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+    display: flex;
+    background-color: burlywood;
+
+}
+.a2{
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+    display: flex;
+    background-color: aquamarine;
+
+
+}
+
+
+
+
